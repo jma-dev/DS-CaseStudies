@@ -1,11 +1,11 @@
 # folder contains offical solutions
-official_solutions_python/
+/official_solutions_python/
 
 # pdf doc
-*.pdf
+/*.pdf
 
 # SQL practice
-SQL/
+/SQL/
 
 
 # Environments
