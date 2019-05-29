@@ -1,6 +1,9 @@
 # folder contains offical solutions
 /official_solutions_python/
 
+# raw data file
+/RawData/
+
 # pdf doc
 /*.pdf
 
