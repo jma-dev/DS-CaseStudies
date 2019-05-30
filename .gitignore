@@ -11,7 +11,7 @@
 /SQL/
 
 # notebook checkpoint
-/*.ipynb_checkpoints
+*.ipynb_checkpoints
 
 # Environments
 .env
